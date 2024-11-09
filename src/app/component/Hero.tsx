@@ -17,7 +17,7 @@ const Hero = () => {
               CCTV cameras are among the most essential tools for security
               today. These cameras are used for monitoring and protection,
               allowing constant surveillance of various places like homes,
-              offices, shops, and public areas. With CCTV cameras, it’s possible
+              offices, shops, and public areas. With CCTV cameras, its possible
               to prevent theft, fraud, and other crimes because they record
               footage that can be reviewed later to analyze any incident. These
               cameras operate day and night, and with advanced technology, they

@@ -16,7 +16,7 @@ const About: React.FC = () => (
         <h2 className="text-4xl font-bold text-gray-800 mb-6">About Us</h2>
         <p className="text-gray-700 leading-relaxed">
           We provide reliable and efficient CCTV solutions to fix any issues
-          with your security systems. Whether it's installation, repair, or
+          with your security systems. Whether its installation, repair, or
           maintenance, our dedicated team is committed to ensuring your CCTV
           cameras are working flawlessly. We send our skilled professionals to
           your location to handle all your CCTV-related problems with precision

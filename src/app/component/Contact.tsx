@@ -1,6 +1,6 @@
 "use client";
 import React, { useState } from "react";
-const contact = () => {
+const Contact = () => {
   const [messageSent, setMessageSent] = useState(false);
 
   const handleSubmit = (e: React.FormEvent) => {
@@ -106,4 +106,4 @@ const contact = () => {
   );
 };
 
-export default contact;
+export default Contact;

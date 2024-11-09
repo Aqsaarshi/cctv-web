@@ -41,7 +41,7 @@ const page = () => {
             <h2 className="text-3xl font-medium mb-4">Ready to Get Started?</h2>
             <p className="mb-8 text-lg">
               Join thousands of satisfied users who are already using our
-              services to grow their business.
+              services to grow their business
             </p>
             <a
               href="/"
